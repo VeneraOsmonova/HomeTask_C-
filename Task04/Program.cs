@@ -23,3 +23,4 @@ while (max < b || max < c)
    }
 }
 System.Console.WriteLine($"Максимальное число = {max}");
+
